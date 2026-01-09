@@ -1,0 +1,22 @@
+
+backend:
+  name: github
+  repo: akina-health/dummy-sveltia
+  branch: main
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: "snippets"
+    label: "Text Snippets"
+    folder: "content/snippets"
+    create: true
+    slug: "{slug}"
+    format: "json"
+    extension: "json"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Author", name: "author", widget: "select", options: ["Alice", "Bob", "Charlie"]}
+      - {label: "Draft", name: "draft", widget: "boolean"}
