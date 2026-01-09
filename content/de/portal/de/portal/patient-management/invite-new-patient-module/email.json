@@ -1,0 +1,21 @@
+{
+  "id": 603882181,
+  "full_slug": "de/portal/patient-management/invite-new-patient-module/email",
+  "content": {
+    "Icon": {
+      "id": null,
+      "alt": null,
+      "name": "",
+      "focus": null,
+      "title": null,
+      "source": null,
+      "filename": "",
+      "copyright": null,
+      "fieldtype": "asset",
+      "meta_data": []
+    },
+    "BoxTitle": "E-Mail Adresse*",
+    "component": "BoxWithExample",
+    "ContentExample": "E-Mail Adresse"
+  }
+}

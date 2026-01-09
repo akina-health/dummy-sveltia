@@ -1,0 +1,9 @@
+{
+  "id": 108899346731964,
+  "full_slug": "portal/patient-management/empty-state/active-tab",
+  "content": {
+    "Title": "No active patients",
+    "SubText": "Patients who completed at least 1 training session in the last 14 days will be listed here.",
+    "component": "TitleWithSubtext"
+  }
+}

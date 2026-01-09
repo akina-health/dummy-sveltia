@@ -1,0 +1,8 @@
+{
+  "id": 603882533,
+  "full_slug": "portal/session-review/feedback-history-drawer/session-routines-length",
+  "content": {
+    "Text": "{number} exercises",
+    "component": "TextBlock"
+  }
+}

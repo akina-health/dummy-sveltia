@@ -1,0 +1,8 @@
+{
+  "id": 603882278,
+  "full_slug": "portal/patient-management/patient-detail-page/prescription-modal/pagination",
+  "content": {
+    "Text": "{pageNumber} of {numPages}",
+    "component": "TextBlock"
+  }
+}

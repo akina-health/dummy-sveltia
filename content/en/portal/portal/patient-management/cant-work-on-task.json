@@ -1,0 +1,8 @@
+{
+  "id": 98946224580158,
+  "full_slug": "portal/patient-management/cant-work-on-task",
+  "content": {
+    "Text": "Only the assigned physiotherapist can work on the tasks",
+    "component": "TextBlock"
+  }
+}

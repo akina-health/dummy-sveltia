@@ -1,0 +1,9 @@
+{
+  "id": 603882745,
+  "full_slug": "portal/roles/institution-profile-page/update-institution-profile-details/profile-picture",
+  "content": {
+    "Title": "Upload profile photo",
+    "SubText": "Make sure the file is below 2mb. The image will be seen by patients.",
+    "component": "TitleWithSubtext"
+  }
+}

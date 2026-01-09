@@ -1,0 +1,8 @@
+{
+  "id": 603882079,
+  "full_slug": "portal/home/browser-issues-banner/outdated-browser/title",
+  "content": {
+    "Text": "Please update your browser to the latest version for an optimal experience.",
+    "component": "TextBlock"
+  }
+}

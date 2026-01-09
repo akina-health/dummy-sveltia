@@ -1,0 +1,8 @@
+{
+  "id": 603882836,
+  "full_slug": "portal/roles/institution-profile-page/delete-team-member/delete-error",
+  "content": {
+    "Text": "Team member was not deleted, please retry",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 603882468,
+  "full_slug": "fr/portal/session-review/exercise-review/overall-feedback/your-overall-feedback",
+  "content": {
+    "Icon": {
+      "id": null,
+      "alt": null,
+      "name": "",
+      "focus": null,
+      "title": null,
+      "filename": null,
+      "copyright": null,
+      "fieldtype": "asset",
+      "meta_data": [],
+      "is_external_url": false
+    },
+    "BoxTitle": "Ton retour global",
+    "component": "BoxWithExample",
+    "ContentExample": "Clique ici pour saisir ton retour"
+  }
+}

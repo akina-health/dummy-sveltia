@@ -1,0 +1,8 @@
+{
+  "id": 92599825972385,
+  "full_slug": "portal/session-review/insights/therapy-ending",
+  "content": {
+    "Text": "Therapy ends in {remaining_days} days.",
+    "component": "TextBlock"
+  }
+}

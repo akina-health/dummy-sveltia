@@ -1,0 +1,14 @@
+{
+  "id": 603882677,
+  "full_slug": "de/portal/profile/institution-profile-page/update-institution-profile-details/toaster-filesize",
+  "content": {
+    "Text": "Datei ist grösser als {maxFileSize}",
+    "Link1": "maxFileSize",
+    "Link2": "",
+    "Link3": "",
+    "Link4": "",
+    "Link5": "",
+    "Links": [],
+    "component": "TextWithDynamicElement"
+  }
+}

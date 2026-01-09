@@ -1,0 +1,8 @@
+{
+  "id": 603882308,
+  "full_slug": "fr/portal/patient-management/therapy-plan-management/session-too-long",
+  "content": {
+    "Text": "Séance longue. Inclue au maximum {param} exercices pour une expérience d’entraînement optimale.",
+    "component": "TextBlock"
+  }
+}

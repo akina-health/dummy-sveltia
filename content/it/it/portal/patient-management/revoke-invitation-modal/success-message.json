@@ -1,0 +1,8 @@
+{
+  "id": 603882302,
+  "full_slug": "it/portal/patient-management/revoke-invitation-modal/success-message",
+  "content": {
+    "Text": "L'invito per {patientName} è stato revocato.",
+    "component": "TextBlock"
+  }
+}

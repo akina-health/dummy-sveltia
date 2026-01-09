@@ -1,0 +1,9 @@
+{
+  "id": 108900995822487,
+  "full_slug": "portal/patient-management/empty-state/inactive-tab",
+  "content": {
+    "Title": "No inactive patients",
+    "SubText": "Patients who have not trained for 14 days will be listed here.",
+    "component": "TitleWithSubtext"
+  }
+}

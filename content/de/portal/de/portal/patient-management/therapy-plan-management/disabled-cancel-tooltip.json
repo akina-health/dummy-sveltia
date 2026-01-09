@@ -1,0 +1,8 @@
+{
+  "id": 603882338,
+  "full_slug": "de/portal/patient-management/therapy-plan-management/disabled-cancel-tooltip",
+  "content": {
+    "Text": "Pro Training ist mindestens eine Übung erforderlich. Bitte eine weitere Übung hinzufügen, bevor diese gelöscht wird.",
+    "component": "TextBlock"
+  }
+}

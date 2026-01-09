@@ -1,0 +1,8 @@
+{
+  "id": 603882788,
+  "full_slug": "de/portal/roles/institution-profile-page/table/table-labels/requested-date",
+  "content": {
+    "Text": "Anfrage Datum",
+    "component": "TextBlock"
+  }
+}

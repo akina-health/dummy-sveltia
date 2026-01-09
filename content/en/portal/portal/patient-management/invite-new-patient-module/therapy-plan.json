@@ -1,0 +1,9 @@
+{
+  "id": 603882190,
+  "full_slug": "portal/patient-management/invite-new-patient-module/therapy-plan",
+  "content": {
+    "Title": "Therapy plan*",
+    "SubText": "Select a therapy plan",
+    "component": "TitleWithSubtext"
+  }
+}

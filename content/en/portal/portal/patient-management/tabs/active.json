@@ -1,0 +1,8 @@
+{
+  "id": 603882291,
+  "full_slug": "portal/patient-management/tabs/active",
+  "content": {
+    "Text": "Active",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 603882223,
+  "full_slug": "portal/patient-management/patient-detail-page/delete-patient",
+  "content": {
+    "Text": "Disconnect patient",
+    "component": "TextBlock"
+  }
+}

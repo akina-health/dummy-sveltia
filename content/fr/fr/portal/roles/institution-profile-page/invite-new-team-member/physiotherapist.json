@@ -1,0 +1,12 @@
+{
+  "id": 603882804,
+  "full_slug": "fr/portal/roles/institution-profile-page/invite-new-team-member/physiotherapist",
+  "content": {
+    "Key": "",
+    "MainText": "Physiothérapeute",
+    "component": "TextWithTooltip",
+    "TooltipText": "Examiner les exercices des patients, droits limités pour modifier la page de l'institution",
+    "TooltipTitle": "",
+    "ShowConsultPhysician": false
+  }
+}

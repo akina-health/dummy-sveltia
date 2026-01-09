@@ -1,0 +1,8 @@
+{
+  "id": 603882339,
+  "full_slug": "portal/patient-management/therapy-plan-management/add-routine-disabled-tooltip",
+  "content": {
+    "Text": "Maximum of {param} exercises per session reached. Please delete an exercise before adding another.",
+    "component": "TextBlock"
+  }
+}

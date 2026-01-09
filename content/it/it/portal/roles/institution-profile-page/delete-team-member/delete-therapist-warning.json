@@ -1,0 +1,8 @@
+{
+  "id": 603882835,
+  "full_slug": "it/portal/roles/institution-profile-page/delete-team-member/delete-therapist-warning",
+  "content": {
+    "Text": "Non puoi cancellare un terapeuta che sta seguendo attivamente dei pazienti. Prima trasferisci i pazienti per poter cancellare questo terapeuta.",
+    "component": "TextBlock"
+  }
+}

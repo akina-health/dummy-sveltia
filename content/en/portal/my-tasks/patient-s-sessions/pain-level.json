@@ -1,0 +1,8 @@
+{
+  "id": 603882092,
+  "full_slug": "portal/my-tasks/patient-s-sessions/pain-level",
+  "content": {
+    "Text": "Pain level",
+    "component": "TextBlock"
+  }
+}

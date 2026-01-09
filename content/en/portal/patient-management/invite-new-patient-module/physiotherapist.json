@@ -1,0 +1,9 @@
+{
+  "id": 603882201,
+  "full_slug": "portal/patient-management/invite-new-patient-module/physiotherapist",
+  "content": {
+    "Title": "Physiotherapist*",
+    "SubText": "Select a physiotherapist",
+    "component": "TitleWithSubtext"
+  }
+}

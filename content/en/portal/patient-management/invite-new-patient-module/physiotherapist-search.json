@@ -1,0 +1,8 @@
+{
+  "id": 603882202,
+  "full_slug": "portal/patient-management/invite-new-patient-module/physiotherapist-search",
+  "content": {
+    "Text": "Search for a physiotherapist",
+    "component": "TextBlock"
+  }
+}

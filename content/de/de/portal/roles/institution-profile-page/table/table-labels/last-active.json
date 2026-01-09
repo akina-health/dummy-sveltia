@@ -1,0 +1,8 @@
+{
+  "id": 603882792,
+  "full_slug": "de/portal/roles/institution-profile-page/table/table-labels/last-active",
+  "content": {
+    "Text": "Zuletzt aktiv",
+    "component": "TextBlock"
+  }
+}

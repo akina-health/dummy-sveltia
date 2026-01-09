@@ -1,0 +1,8 @@
+{
+  "id": 92581871235220,
+  "full_slug": "de/portal/session-review/insights/first-time-mistake",
+  "content": {
+    "Text": "Fehler erstmals gesehen: {mistake_key}",
+    "component": "TextBlock"
+  }
+}

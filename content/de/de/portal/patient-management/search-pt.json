@@ -1,0 +1,22 @@
+{
+  "id": 603882120,
+  "full_slug": "de/portal/patient-management/search-pt",
+  "content": {
+    "Icon": {
+      "id": 19701993,
+      "alt": "",
+      "name": "right",
+      "focus": "",
+      "title": "",
+      "source": "",
+      "filename": "https://a.storyblok.com/f/319559/24x24/d9659deb96/24-actions-search.svg",
+      "copyright": "",
+      "fieldtype": "asset",
+      "meta_data": [],
+      "is_external_url": false
+    },
+    "BoxTitle": "",
+    "component": "BoxWithExample",
+    "ContentExample": "Suche nach Physiotherapeuten"
+  }
+}

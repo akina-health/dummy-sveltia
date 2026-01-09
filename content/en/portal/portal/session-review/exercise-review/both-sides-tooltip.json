@@ -1,0 +1,8 @@
+{
+  "id": 104597463918200,
+  "full_slug": "portal/session-review/exercise-review/both-sides-tooltip",
+  "content": {
+    "Text": "This exercise was performed on both sides at once or alternately. The data reflects the entire exercise and cannot be broken down by individual left/right side.",
+    "component": "TextBlock"
+  }
+}

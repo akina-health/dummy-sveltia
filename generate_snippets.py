@@ -80,3 +80,4 @@ with open(f"{ADMIN_DIR}/index.html", "w") as f:
 
 print("✅ Admin UI generated.")
 print("🎉 DONE! Run 'python3 -m http.server 8000' to test locally, or push to GitHub.")
+

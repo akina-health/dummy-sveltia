@@ -1,0 +1,8 @@
+{
+  "id": 603882336,
+  "full_slug": "portal/patient-management/therapy-plan-management/edit-routine-custom-exercise-sub-text",
+  "content": {
+    "Text": "This exercise is not included in the standard therapy plan or in the current therapy phase. Therefore, no difficulty levels are available for this activity.",
+    "component": "TextBlock"
+  }
+}

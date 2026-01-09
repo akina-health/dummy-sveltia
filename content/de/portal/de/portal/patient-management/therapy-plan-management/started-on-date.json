@@ -1,0 +1,8 @@
+{
+  "id": 106056057723128,
+  "full_slug": "de/portal/patient-management/therapy-plan-management/started-on-date",
+  "content": {
+    "Text": "Gestartet am: {date}",
+    "component": "TextBlock"
+  }
+}

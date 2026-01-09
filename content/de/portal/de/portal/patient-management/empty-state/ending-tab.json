@@ -1,0 +1,9 @@
+{
+  "id": 109124761172718,
+  "full_slug": "de/portal/patient-management/empty-state/ending-tab",
+  "content": {
+    "Title": "Keine Patienten mit bald endendem Therapieplan",
+    "SubText": "Patienten, deren Therapieplan in den nächsten 15 Tagen endet, werden hier aufgelistet.",
+    "component": "TitleWithSubtext"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 113838698428589,
+  "full_slug": "portal/patient-management/reminder-sent-days-ago",
+  "content": {
+    "Text": "{no_days, plural,   =0 {Resent today}   one {Resent 1 day ago}   other {Resent # days ago} }",
+    "component": "TextBlock"
+  }
+}

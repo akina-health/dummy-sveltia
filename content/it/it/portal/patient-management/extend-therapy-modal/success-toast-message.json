@@ -1,0 +1,8 @@
+{
+  "id": 603882296,
+  "full_slug": "it/portal/patient-management/extend-therapy-modal/success-toast-message",
+  "content": {
+    "Text": "Il piano terapeutico per {patientName} è stato esteso.",
+    "component": "TextBlock"
+  }
+}

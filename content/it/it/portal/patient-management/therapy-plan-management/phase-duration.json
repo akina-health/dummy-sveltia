@@ -1,0 +1,8 @@
+{
+  "id": 603882313,
+  "full_slug": "it/portal/patient-management/therapy-plan-management/phase-duration",
+  "content": {
+    "Text": "{number} settimane",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 98950451781174,
+  "full_slug": "portal/patient-management/therapy-plan-management/cant-edit-therapy-plan",
+  "content": {
+    "Text": "Only the assigned physiotherapist can adjust the therapy plan",
+    "component": "TextBlock"
+  }
+}

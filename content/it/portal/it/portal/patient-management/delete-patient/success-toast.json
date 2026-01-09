@@ -1,0 +1,8 @@
+{
+  "id": 86127441316705,
+  "full_slug": "it/portal/patient-management/delete-patient/success-toast",
+  "content": {
+    "Text": "Paziente disconnesso con successo",
+    "component": "TextBlock"
+  }
+}

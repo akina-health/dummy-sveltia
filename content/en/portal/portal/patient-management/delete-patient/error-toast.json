@@ -1,0 +1,8 @@
+{
+  "id": 86127725340872,
+  "full_slug": "portal/patient-management/delete-patient/error-toast",
+  "content": {
+    "Text": "Patient could not be disconnected. Please try again.\"",
+    "component": "TextBlock"
+  }
+}

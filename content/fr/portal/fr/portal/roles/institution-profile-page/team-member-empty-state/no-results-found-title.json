@@ -1,0 +1,8 @@
+{
+  "id": 603882879,
+  "full_slug": "fr/portal/roles/institution-profile-page/team-member-empty-state/no-results-found-title",
+  "content": {
+    "Text": "Aucun résultat trouvé",
+    "component": "TextBlock"
+  }
+}

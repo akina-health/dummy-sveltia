@@ -1,0 +1,8 @@
+{
+  "id": 603882209,
+  "full_slug": "de/portal/patient-management/delete-patient/question",
+  "content": {
+    "Text": "Willst du den Patienten wirklich entfernen?",
+    "component": "TextBlock"
+  }
+}

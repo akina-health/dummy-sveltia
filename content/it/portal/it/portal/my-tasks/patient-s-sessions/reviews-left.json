@@ -1,0 +1,8 @@
+{
+  "id": 603882101,
+  "full_slug": "it/portal/my-tasks/patient-s-sessions/reviews-left",
+  "content": {
+    "Text": "{reviewsLeft, plural, =0 {Nessuna valuazione} one {1 valuazione} other {{reviewsLeft} valuazioni}} rimaste",
+    "component": "TextBlock"
+  }
+}

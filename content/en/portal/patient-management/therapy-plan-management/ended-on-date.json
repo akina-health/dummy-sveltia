@@ -1,0 +1,8 @@
+{
+  "id": 106056737243572,
+  "full_slug": "portal/patient-management/therapy-plan-management/ended-on-date",
+  "content": {
+    "Text": "Ended on: {date}",
+    "component": "TextBlock"
+  }
+}

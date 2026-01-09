@@ -1,0 +1,8 @@
+{
+  "id": 603882465,
+  "full_slug": "portal/session-review/exercise-review/your-feedback/delete-popup-module/question",
+  "content": {
+    "Text": "Are you sure you want to remove this feedback item?",
+    "component": "TextBlock"
+  }
+}

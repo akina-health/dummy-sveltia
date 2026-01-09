@@ -1,0 +1,8 @@
+{
+  "id": 603882203,
+  "full_slug": "fr/portal/patient-management/invite-new-patient-module/email-already-exists-error",
+  "content": {
+    "Text": "Un compte avec cette adresse e-mail existe déjà, essaie avec une autre.",
+    "component": "TextBlock"
+  }
+}

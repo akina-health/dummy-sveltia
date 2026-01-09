@@ -1,0 +1,9 @@
+{
+  "id": 108898416523548,
+  "full_slug": "fr/portal/patient-management/empty-state/onboarding-tab",
+  "content": {
+    "Title": "Aucun patient en cours d'intégration",
+    "SubText": "Les patients qui configurent leur compte avant leur première session apparaissent ici.",
+    "component": "TitleWithSubtext"
+  }
+}

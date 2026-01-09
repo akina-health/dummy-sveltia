@@ -1,0 +1,8 @@
+{
+  "id": 92571613427970,
+  "full_slug": "de/portal/session-review/insights/session-goal-streak",
+  "content": {
+    "Text": "Ziel von ≥3 Trainings seit {streak} Wochen erreicht.",
+    "component": "TextBlock"
+  }
+}

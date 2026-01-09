@@ -1,0 +1,8 @@
+{
+  "id": 603882877,
+  "full_slug": "fr/portal/roles/institution-profile-page/team-member-empty-state/no-team-members-title",
+  "content": {
+    "Text": "Aucun membre d’équipe pour l’instant",
+    "component": "TextBlock"
+  }
+}

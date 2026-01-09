@@ -1,0 +1,9 @@
+{
+  "id": 603882476,
+  "full_slug": "fr/portal/session-review/exercise-review/overall-feedback/no-feedback",
+  "content": {
+    "Title": "Ton retour est requis",
+    "SubText": "Merci de donner à ton patient un retour général. Pour finaliser cette évaluation, clique sur le bouton \"Envoyer le retour\" ci-dessous.",
+    "component": "TitleWithSubtext"
+  }
+}

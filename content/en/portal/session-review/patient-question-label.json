@@ -1,0 +1,8 @@
+{
+  "id": 603882379,
+  "full_slug": "portal/session-review/patient-question-label",
+  "content": {
+    "Text": "Patient comment",
+    "component": "TextBlock"
+  }
+}

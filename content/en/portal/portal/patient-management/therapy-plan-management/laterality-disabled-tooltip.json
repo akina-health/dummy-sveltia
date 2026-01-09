@@ -1,0 +1,8 @@
+{
+  "id": 104582148947135,
+  "full_slug": "portal/patient-management/therapy-plan-management/laterality-disabled-tooltip",
+  "content": {
+    "Text": "The laterality for this exercise cannot be adjusted.",
+    "component": "TextBlock"
+  }
+}

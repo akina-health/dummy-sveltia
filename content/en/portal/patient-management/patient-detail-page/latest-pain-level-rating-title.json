@@ -1,0 +1,8 @@
+{
+  "id": 96144515054502,
+  "full_slug": "portal/patient-management/patient-detail-page/latest-pain-level-rating-title",
+  "content": {
+    "Text": "Latest pain level rating",
+    "component": "TextBlock"
+  }
+}

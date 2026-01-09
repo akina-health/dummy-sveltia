@@ -1,0 +1,8 @@
+{
+  "id": 104582148947135,
+  "full_slug": "it/portal/patient-management/therapy-plan-management/laterality-disabled-tooltip",
+  "content": {
+    "Text": "La lateralità di questo esercizio non può essere modificata.",
+    "component": "TextBlock"
+  }
+}

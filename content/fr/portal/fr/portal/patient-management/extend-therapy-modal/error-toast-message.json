@@ -1,0 +1,8 @@
+{
+  "id": 603882297,
+  "full_slug": "fr/portal/patient-management/extend-therapy-modal/error-toast-message",
+  "content": {
+    "Text": "Le plan de traitement de {patientName} n’a pas été prolongé",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 96142829055562,
+  "full_slug": "de/portal/patient-management/patient-detail-page/no-sessions",
+  "content": {
+    "Text": "{number, plural, one {# Training} other {# Trainings}}",
+    "component": "TextBlock"
+  }
+}

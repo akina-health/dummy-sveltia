@@ -1,0 +1,9 @@
+{
+  "id": 603882076,
+  "full_slug": "portal/home/greet-and-continue-review/greetings-pool/hello",
+  "content": {
+    "Text": "Hello",
+    "NumberKey": "23",
+    "component": "Enum"
+  }
+}

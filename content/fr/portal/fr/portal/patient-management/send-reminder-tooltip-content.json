@@ -1,0 +1,8 @@
+{
+  "id": 603882130,
+  "full_slug": "fr/portal/patient-management/send-reminder-tooltip-content",
+  "content": {
+    "Text": "Tu ne peux envoyer un rappel qu’une fois tous les 3 jours.",
+    "component": "TextBlock"
+  }
+}

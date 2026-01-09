@@ -1,0 +1,21 @@
+{
+  "id": 603882740,
+  "full_slug": "de/portal/roles/institution-profile-page/update-institution-profile-details/location",
+  "content": {
+    "Icon": {
+      "id": null,
+      "alt": null,
+      "name": "",
+      "focus": null,
+      "title": null,
+      "source": null,
+      "filename": "",
+      "copyright": null,
+      "fieldtype": "asset",
+      "meta_data": []
+    },
+    "BoxTitle": "Adresse",
+    "component": "BoxWithExample",
+    "ContentExample": "Adresse der Organisation eingeben"
+  }
+}

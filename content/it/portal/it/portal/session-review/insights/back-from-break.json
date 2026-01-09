@@ -1,0 +1,8 @@
+{
+  "id": 92597102085021,
+  "full_slug": "it/portal/session-review/insights/back-from-break",
+  "content": {
+    "Text": "Questa è la prima seduta dopo una pausa di {break_days} giorni.",
+    "component": "TextBlock"
+  }
+}

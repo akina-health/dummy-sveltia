@@ -1,0 +1,8 @@
+{
+  "id": 92550577880623,
+  "full_slug": "portal/patient-management/exercise-insights/filter-label-marked-painful",
+  "content": {
+    "Text": "Recently marked as painful",
+    "component": "TextBlock"
+  }
+}

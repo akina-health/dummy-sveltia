@@ -1,0 +1,8 @@
+{
+  "id": 106057176867436,
+  "full_slug": "de/portal/patient-management/therapy-plan-management/scheduled-start-date",
+  "content": {
+    "Text": "Geplanter Start: {date}",
+    "component": "TextBlock"
+  }
+}

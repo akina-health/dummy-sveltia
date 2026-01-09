@@ -1,0 +1,8 @@
+{
+  "id": 631802403,
+  "full_slug": "portal/patient-management/invite-new-patient-module/date-input-placeholder",
+  "content": {
+    "Text": "DD.MM.YYYY",
+    "component": "TextBlock"
+  }
+}

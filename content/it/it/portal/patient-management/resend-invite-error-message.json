@@ -1,0 +1,8 @@
+{
+  "id": 603882135,
+  "full_slug": "it/portal/patient-management/resend-invite-error-message",
+  "content": {
+    "Text": "L'invito a {patientName} non è stato inviato.",
+    "component": "TextBlock"
+  }
+}

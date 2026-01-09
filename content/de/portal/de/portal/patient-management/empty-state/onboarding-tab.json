@@ -1,0 +1,9 @@
+{
+  "id": 108898416523548,
+  "full_slug": "de/portal/patient-management/empty-state/onboarding-tab",
+  "content": {
+    "Title": "Aktuell keine Patienten im Onboarding",
+    "SubText": "Patienten, die ihr Konto einrichten und noch vor ihrem ersten Training stehen, werden hier angezeigt.",
+    "component": "TitleWithSubtext"
+  }
+}

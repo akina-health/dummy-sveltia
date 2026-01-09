@@ -1,0 +1,8 @@
+{
+  "id": 603882837,
+  "full_slug": "portal/roles/institution-profile-page/delete-team-member/delete-success",
+  "content": {
+    "Text": "Team Member deleted successfully",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 603882812,
+  "full_slug": "portal/roles/institution-profile-page/assign-pt-to-patient/title",
+  "content": {
+    "Text": "Assign physiotherapist to patient",
+    "component": "TextBlock"
+  }
+}

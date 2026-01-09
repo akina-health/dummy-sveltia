@@ -1,0 +1,9 @@
+{
+  "id": 603882190,
+  "full_slug": "it/portal/patient-management/invite-new-patient-module/therapy-plan",
+  "content": {
+    "Title": "Piano terapeutico*",
+    "SubText": "Selezionare un piano terapeutico",
+    "component": "TitleWithSubtext"
+  }
+}

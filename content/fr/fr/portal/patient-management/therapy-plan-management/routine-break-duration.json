@@ -1,0 +1,8 @@
+{
+  "id": 603882305,
+  "full_slug": "fr/portal/patient-management/therapy-plan-management/routine-break-duration",
+  "content": {
+    "Text": "{seconds} s pause",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 603882651,
+  "full_slug": "fr/portal/profile/bio-placeholder",
+  "content": {
+    "Text": "Écris une courte présentation de ton profil pour que les patients puissent mieux te connaître.",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 603882189,
+  "full_slug": "fr/portal/patient-management/invite-new-patient-module/number-of-patients",
+  "content": {
+    "Text": "{number} patients",
+    "Link1": "",
+    "Link2": "",
+    "Link3": "",
+    "Link4": "",
+    "Link5": "",
+    "Links": [
+      {
+        "link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "title": "f",
+        "linkText": "",
+        "subtitle": "f",
+        "component": "ValueCard",
+        "highlight": false,
+        "imageType": "noImage",
+        "whiteText": false,
+        "imagePhone": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": []
+        },
+        "imageDesktop": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": []
+        }
+      }
+    ],
+    "component": "TextWithDynamicElement"
+  }
+}

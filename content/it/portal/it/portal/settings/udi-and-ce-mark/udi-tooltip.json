@@ -1,0 +1,8 @@
+{
+  "id": 603882610,
+  "full_slug": "it/portal/settings/udi-and-ce-mark/udi-tooltip",
+  "content": {
+    "Text": "Questo numero identifica in modo univoco il tuo dispositivo medico e la sua versione.",
+    "component": "TextBlock"
+  }
+}

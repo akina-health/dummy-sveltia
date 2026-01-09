@@ -1,0 +1,9 @@
+{
+  "id": 603882285,
+  "full_slug": "portal/patient-management/empty-state/all-tab",
+  "content": {
+    "Title": "No patients yet",
+    "SubText": "Once a patient joins Akina, they will be listed here.",
+    "component": "TitleWithSubtext"
+  }
+}

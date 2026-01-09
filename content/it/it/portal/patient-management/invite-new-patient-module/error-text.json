@@ -1,0 +1,8 @@
+{
+  "id": 603882207,
+  "full_slug": "it/portal/patient-management/invite-new-patient-module/error-text",
+  "content": {
+    "Text": "Caricamento non riuscito",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 603882572,
+  "full_slug": "fr/portal/settings/my-account/close-account-action-url",
+  "content": {
+    "Text": "mailto:privacy@akina.health",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 98946224580158,
+  "full_slug": "it/portal/patient-management/cant-work-on-task",
+  "content": {
+    "Text": "Solo il fisioterapista assegnato a questo paziente può occuparsi di questo compito",
+    "component": "TextBlock"
+  }
+}

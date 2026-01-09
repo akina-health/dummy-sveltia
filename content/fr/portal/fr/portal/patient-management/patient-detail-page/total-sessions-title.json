@@ -1,0 +1,8 @@
+{
+  "id": 96141980659242,
+  "full_slug": "fr/portal/patient-management/patient-detail-page/total-sessions-title",
+  "content": {
+    "Text": "Séances totales",
+    "component": "TextBlock"
+  }
+}

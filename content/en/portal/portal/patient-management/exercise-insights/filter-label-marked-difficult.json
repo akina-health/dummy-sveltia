@@ -1,0 +1,8 @@
+{
+  "id": 92550131273254,
+  "full_slug": "portal/patient-management/exercise-insights/filter-label-marked-difficult",
+  "content": {
+    "Text": "Recently marked as difficult",
+    "component": "TextBlock"
+  }
+}

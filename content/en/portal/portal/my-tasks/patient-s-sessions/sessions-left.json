@@ -1,0 +1,8 @@
+{
+  "id": 603882100,
+  "full_slug": "portal/my-tasks/patient-s-sessions/sessions-left",
+  "content": {
+    "Text": "{sessionsLeft, plural, =0 {No trainings} one {# training} other {# trainings}} left",
+    "component": "TextBlock"
+  }
+}

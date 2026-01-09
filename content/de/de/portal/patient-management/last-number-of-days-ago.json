@@ -1,0 +1,8 @@
+{
+  "id": 603882126,
+  "full_slug": "de/portal/patient-management/last-number-of-days-ago",
+  "content": {
+    "Text": "Zuletzt {numDays, plural, =0 {heute} one {gestern} other {vor {numDays} Tagen}}",
+    "component": "TextBlock"
+  }
+}

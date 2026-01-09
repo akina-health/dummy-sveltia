@@ -1,0 +1,8 @@
+{
+  "id": 603882303,
+  "full_slug": "de/portal/patient-management/revoke-invitation-modal/error-message",
+  "content": {
+    "Text": "Einladung für {patientName} wurde nicht zurückgezogen",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 92593115743877,
+  "full_slug": "fr/portal/session-review/insights/pain-level-drop",
+  "content": {
+    "Text": "Douleur passée de {previous_pain_level} à {pain_level} depuis la dernière séance.",
+    "component": "TextBlock"
+  }
+}

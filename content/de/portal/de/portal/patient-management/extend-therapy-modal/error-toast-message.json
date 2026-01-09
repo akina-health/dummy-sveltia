@@ -1,0 +1,8 @@
+{
+  "id": 603882297,
+  "full_slug": "de/portal/patient-management/extend-therapy-modal/error-toast-message",
+  "content": {
+    "Text": "Therapie für {patientName} wurde nicht verlängert",
+    "component": "TextBlock"
+  }
+}

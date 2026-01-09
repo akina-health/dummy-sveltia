@@ -1,0 +1,9 @@
+{
+  "id": 603882635,
+  "full_slug": "fr/portal/search/no-results-found",
+  "content": {
+    "Title": "Aucun résultat trouvé",
+    "SubText": "Vérifie qu’il n’y a pas de fautes de frappe ou reformule ta recherche.",
+    "component": "TitleWithSubtext"
+  }
+}

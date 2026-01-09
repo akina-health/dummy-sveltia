@@ -1,0 +1,8 @@
+{
+  "id": 603882303,
+  "full_slug": "fr/portal/patient-management/revoke-invitation-modal/error-message",
+  "content": {
+    "Text": "L’invitation pour {patientName} n’est pas annulée",
+    "component": "TextBlock"
+  }
+}

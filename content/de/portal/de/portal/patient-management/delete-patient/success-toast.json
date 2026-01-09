@@ -1,0 +1,8 @@
+{
+  "id": 86127441316705,
+  "full_slug": "de/portal/patient-management/delete-patient/success-toast",
+  "content": {
+    "Text": "Patient erfolgreich entfernt",
+    "component": "TextBlock"
+  }
+}

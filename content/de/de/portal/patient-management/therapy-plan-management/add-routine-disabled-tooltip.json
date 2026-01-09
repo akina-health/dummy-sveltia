@@ -1,0 +1,8 @@
+{
+  "id": 603882339,
+  "full_slug": "de/portal/patient-management/therapy-plan-management/add-routine-disabled-tooltip",
+  "content": {
+    "Text": "Pro Training sind maximal {param} Übungen möglich. Vor dem Hinzufügen einer neuen Übung bitte eine Übung löschen.",
+    "component": "TextBlock"
+  }
+}

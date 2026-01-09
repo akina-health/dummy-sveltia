@@ -1,0 +1,8 @@
+{
+  "id": 603882339,
+  "full_slug": "it/portal/patient-management/therapy-plan-management/add-routine-disabled-tooltip",
+  "content": {
+    "Text": "Raggiunto il numero massimo di esercizi {param} per sessione. Eliminare un esercizio prima di aggiungerne un altro.",
+    "component": "TextBlock"
+  }
+}

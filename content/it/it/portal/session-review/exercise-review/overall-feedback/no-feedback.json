@@ -1,0 +1,9 @@
+{
+  "id": 603882476,
+  "full_slug": "it/portal/session-review/exercise-review/overall-feedback/no-feedback",
+  "content": {
+    "Title": "Il tuo feedback è obbligatorio",
+    "SubText": "Dai un feedback generale al tuo paziente. Per finire questa recensione, clicca sul pulsante “Invia feedback” qui sotto.",
+    "component": "TitleWithSubtext"
+  }
+}

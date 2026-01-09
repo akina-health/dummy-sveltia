@@ -1,0 +1,8 @@
+{
+  "id": 603882651,
+  "full_slug": "portal/profile/bio-placeholder",
+  "content": {
+    "Text": "Write a short introduction for your profile so patients can get to know you better.",
+    "component": "TextBlock"
+  }
+}

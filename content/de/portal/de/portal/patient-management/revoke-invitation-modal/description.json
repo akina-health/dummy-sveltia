@@ -1,0 +1,8 @@
+{
+  "id": 603882299,
+  "full_slug": "de/portal/patient-management/revoke-invitation-modal/description",
+  "content": {
+    "Text": "Nachdem du die Einladung widerrufen hast, wird der Patient aus deiner Patientenliste entfernt. Du kannst ihn erneut einladen, indem du auf „Neuer Patient” klickst.",
+    "component": "TextBlock"
+  }
+}

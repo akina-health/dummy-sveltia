@@ -1,0 +1,8 @@
+{
+  "id": 92197130292487,
+  "full_slug": "fr/portal/patient-management/exercise-insights/trend-tooltip",
+  "content": {
+    "Text": "Comparaison de la valeur la plus récente à la moyenne des quatre dernières séances (ou moins).",
+    "component": "TextBlock"
+  }
+}

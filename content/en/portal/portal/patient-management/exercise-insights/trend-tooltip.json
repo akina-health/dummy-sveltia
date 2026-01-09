@@ -1,0 +1,8 @@
+{
+  "id": 92197130292487,
+  "full_slug": "portal/patient-management/exercise-insights/trend-tooltip",
+  "content": {
+    "Text": "Comparison of the most recent value to the average of the last four trainings (or fewer).",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 102418439731544,
+  "full_slug": "portal/patient-management/patient-detail-page/pain-level-trend-tooltip",
+  "content": {
+    "Text": "Comparing the most recent value with the baseline.",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 603882607,
+  "full_slug": "fr/portal/settings/notifications/email-notifications/sub-text",
+  "content": {
+    "Text": "Reçois des notifications par email pour les rappels et les nouveaux patients assignés",
+    "component": "TextBlock"
+  }
+}

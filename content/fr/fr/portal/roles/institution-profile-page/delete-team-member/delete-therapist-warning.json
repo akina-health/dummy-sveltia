@@ -1,0 +1,8 @@
+{
+  "id": 603882835,
+  "full_slug": "fr/portal/roles/institution-profile-page/delete-team-member/delete-therapist-warning",
+  "content": {
+    "Text": "Tu ne peux pas supprimer un thérapeute qui supervise des patients actifs. Transfère d’abord les patients avant de supprimer ce thérapeute.",
+    "component": "TextBlock"
+  }
+}

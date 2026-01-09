@@ -1,0 +1,8 @@
+{
+  "id": 92571613427970,
+  "full_slug": "fr/portal/session-review/insights/session-goal-streak",
+  "content": {
+    "Text": "Objectif ≥3 séances atteint pendant {streak} semaines.",
+    "component": "TextBlock"
+  }
+}

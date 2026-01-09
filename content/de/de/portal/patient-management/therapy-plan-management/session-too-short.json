@@ -1,0 +1,8 @@
+{
+  "id": 603882309,
+  "full_slug": "de/portal/patient-management/therapy-plan-management/session-too-short",
+  "content": {
+    "Text": "Kurzes Training. Für ein optimales Trainingserlebnis min. {param} Übungen hinzufügen.",
+    "component": "TextBlock"
+  }
+}

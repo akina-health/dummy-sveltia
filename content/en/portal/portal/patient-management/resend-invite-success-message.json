@@ -1,0 +1,8 @@
+{
+  "id": 603882134,
+  "full_slug": "portal/patient-management/resend-invite-success-message",
+  "content": {
+    "Text": "Invitation to {patientName} is resent",
+    "component": "TextBlock"
+  }
+}

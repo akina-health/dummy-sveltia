@@ -1,0 +1,8 @@
+{
+  "id": 603882744,
+  "full_slug": "it/portal/roles/institution-profile-page/update-institution-profile-details/institution",
+  "content": {
+    "Text": "Nome dell'Istituzione*",
+    "component": "TextBlock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 603882127,
+  "full_slug": "it/portal/patient-management/invited-number-of-days-ago",
+  "content": {
+    "Text": "Invitato {numDays, plural, =0 {oggi} one {ieri} other {{numDays} giorni fa}}",
+    "component": "TextBlock"
+  }
+}

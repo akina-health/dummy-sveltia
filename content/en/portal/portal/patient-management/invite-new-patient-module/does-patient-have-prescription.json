@@ -1,0 +1,8 @@
+{
+  "id": 603882194,
+  "full_slug": "portal/patient-management/invite-new-patient-module/does-patient-have-prescription",
+  "content": {
+    "Text": "Does the patient have a prescription for Akina?*",
+    "component": "TextBlock"
+  }
+}

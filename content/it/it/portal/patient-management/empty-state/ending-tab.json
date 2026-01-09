@@ -1,0 +1,9 @@
+{
+  "id": 109124761172718,
+  "full_slug": "it/portal/patient-management/empty-state/ending-tab",
+  "content": {
+    "Title": "Nessun paziente con piano terapeutico in scadenza",
+    "SubText": "I pazienti il cui piano terapeutico è previsto in conclusione entro i prossimi 15 giorni saranno elencati qui.",
+    "component": "TitleWithSubtext"
+  }
+}

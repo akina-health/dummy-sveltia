@@ -1,0 +1,21 @@
+{
+  "id": 603882764,
+  "full_slug": "it/portal/roles/institution-profile-page/table/sort",
+  "content": {
+    "Icon": {
+      "id": 19701977,
+      "alt": "",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "source": "",
+      "filename": "https://a.storyblok.com/f/319559/24x24/a346849462/24-double-caret-vertical.svg",
+      "copyright": "",
+      "fieldtype": "asset",
+      "meta_data": [],
+      "is_external_url": false
+    },
+    "Text": "Ordinamento",
+    "component": "IconWithText"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": 92593839982238,
+  "full_slug": "de/portal/session-review/insights/pain-level-increase",
+  "content": {
+    "Text": "Schmerz stieg von {previous_pain_level} auf {pain_level} seit dem letzten Training.",
+    "component": "TextBlock"
+  }
+}

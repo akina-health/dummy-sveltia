@@ -1,0 +1,8 @@
+{
+  "id": 92593839982238,
+  "full_slug": "it/portal/session-review/insights/pain-level-increase",
+  "content": {
+    "Text": "Dolore aumentato da {previous_pain_level} a {pain_level} dall’ultima seduta.",
+    "component": "TextBlock"
+  }
+}

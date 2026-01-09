@@ -1,0 +1,21 @@
+{
+  "id": 603882748,
+  "full_slug": "fr/portal/roles/institution-profile-page/update-institution-profile-details/website",
+  "content": {
+    "Icon": {
+      "id": null,
+      "alt": null,
+      "name": "",
+      "focus": null,
+      "title": null,
+      "source": null,
+      "filename": "",
+      "copyright": null,
+      "fieldtype": "asset",
+      "meta_data": []
+    },
+    "BoxTitle": "Site web*",
+    "component": "BoxWithExample",
+    "ContentExample": "Saisis l’URL"
+  }
+}

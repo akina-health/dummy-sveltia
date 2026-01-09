@@ -1,0 +1,8 @@
+{
+  "id": 603882209,
+  "full_slug": "fr/portal/patient-management/delete-patient/question",
+  "content": {
+    "Text": "Es-tu sûr de vouloir déconnecter le patient?",
+    "component": "TextBlock"
+  }
+}

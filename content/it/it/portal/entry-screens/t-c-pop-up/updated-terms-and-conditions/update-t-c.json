@@ -1,0 +1,14 @@
+{
+  "id": 603882020,
+  "full_slug": "it/portal/entry-screens/t-c-pop-up/updated-terms-and-conditions/update-t-c",
+  "content": {
+    "Text": "I nostri termini e condizioni sono cambiati. Ti chiediamo di dedicare un minuto per leggere i termini aggiornati e confermare di averli capiti.",
+    "Link1": "date",
+    "Link2": "",
+    "Link3": "",
+    "Link4": "",
+    "Link5": "",
+    "Links": [],
+    "component": "TextWithDynamicElement"
+  }
+}

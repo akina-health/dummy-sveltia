@@ -1,0 +1,8 @@
+{
+  "id": 603882607,
+  "full_slug": "it/portal/settings/notifications/email-notifications/sub-text",
+  "content": {
+    "Text": "Ricevi aggiornamenti via e-mail sui promemoria e sui nuovi pazienti assegnati",
+    "component": "TextBlock"
+  }
+}

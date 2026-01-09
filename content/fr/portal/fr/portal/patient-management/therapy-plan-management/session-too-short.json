@@ -1,0 +1,8 @@
+{
+  "id": 603882309,
+  "full_slug": "fr/portal/patient-management/therapy-plan-management/session-too-short",
+  "content": {
+    "Text": "Séance courte. Inclue au moins {param} exercices pour une expérience d’entraînement optimale.",
+    "component": "TextBlock"
+  }
+}

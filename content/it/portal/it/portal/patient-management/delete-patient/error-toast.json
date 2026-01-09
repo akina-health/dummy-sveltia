@@ -1,0 +1,8 @@
+{
+  "id": 86127725340872,
+  "full_slug": "it/portal/patient-management/delete-patient/error-toast",
+  "content": {
+    "Text": "Impossibile disconnettere il paziente. Riprova, per favore.",
+    "component": "TextBlock"
+  }
+}

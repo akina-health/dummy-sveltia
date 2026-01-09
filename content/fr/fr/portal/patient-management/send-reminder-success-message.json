@@ -1,0 +1,8 @@
+{
+  "id": 603882129,
+  "full_slug": "fr/portal/patient-management/send-reminder-success-message",
+  "content": {
+    "Text": "Le rappel à {patientName} a été envoyé",
+    "component": "TextBlock"
+  }
+}

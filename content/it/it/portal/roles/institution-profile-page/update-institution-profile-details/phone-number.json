@@ -1,0 +1,21 @@
+{
+  "id": 603882747,
+  "full_slug": "it/portal/roles/institution-profile-page/update-institution-profile-details/phone-number",
+  "content": {
+    "Icon": {
+      "id": null,
+      "alt": null,
+      "name": "",
+      "focus": null,
+      "title": null,
+      "source": null,
+      "filename": "",
+      "copyright": null,
+      "fieldtype": "asset",
+      "meta_data": []
+    },
+    "BoxTitle": "Numero di telefono*",
+    "component": "BoxWithExample",
+    "ContentExample": "12 123 12 12"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 603882806,
+  "full_slug": "de/portal/roles/institution-profile-page/invite-new-team-member/admin",
+  "content": {
+    "Key": "",
+    "MainText": "Administrator",
+    "component": "TextWithTooltip",
+    "TooltipText": "Volle Bearbeitungsrechte",
+    "TooltipTitle": "",
+    "ShowConsultPhysician": false
+  }
+}

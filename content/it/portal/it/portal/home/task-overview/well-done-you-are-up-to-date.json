@@ -1,0 +1,9 @@
+{
+  "id": 603882053,
+  "full_slug": "it/portal/home/task-overview/well-done-you-are-up-to-date",
+  "content": {
+    "Title": "Ben fatto! Sei tutto aggiornato.",
+    "SubText": "Appena i tuoi pazienti fanno altre sedute, appariranno qui.",
+    "component": "TitleWithSubtext"
+  }
+}

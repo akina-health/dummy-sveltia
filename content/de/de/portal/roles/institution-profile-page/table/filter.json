@@ -1,0 +1,21 @@
+{
+  "id": 603882763,
+  "full_slug": "de/portal/roles/institution-profile-page/table/filter",
+  "content": {
+    "Icon": {
+      "id": 19701978,
+      "alt": "",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "source": "",
+      "filename": "https://a.storyblok.com/f/319559/24x24/7b71547fb6/24-filter-list.svg",
+      "copyright": "",
+      "fieldtype": "asset",
+      "meta_data": [],
+      "is_external_url": false
+    },
+    "Text": "Filtern",
+    "component": "IconWithText"
+  }
+}

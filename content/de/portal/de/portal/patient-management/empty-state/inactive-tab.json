@@ -1,0 +1,9 @@
+{
+  "id": 108900995822487,
+  "full_slug": "de/portal/patient-management/empty-state/inactive-tab",
+  "content": {
+    "Title": "Keine inaktiven Patienten",
+    "SubText": "Patienten, die seit 14 Tagen nicht trainiert haben, werden hier aufgelistet.",
+    "component": "TitleWithSubtext"
+  }
+}

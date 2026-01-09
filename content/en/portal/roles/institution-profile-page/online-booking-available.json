@@ -1,0 +1,8 @@
+{
+  "id": 603882735,
+  "full_slug": "portal/roles/institution-profile-page/online-booking-available",
+  "content": {
+    "Text": "You can book your appointment online with this clinic",
+    "component": "TextBlock"
+  }
+}

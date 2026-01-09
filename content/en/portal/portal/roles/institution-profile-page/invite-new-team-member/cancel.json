@@ -1,0 +1,8 @@
+{
+  "id": 603882808,
+  "full_slug": "portal/roles/institution-profile-page/invite-new-team-member/cancel",
+  "content": {
+    "Text": "Cancel",
+    "component": "TextBlock"
+  }
+}

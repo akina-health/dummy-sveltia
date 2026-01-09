@@ -1,0 +1,8 @@
+{
+  "id": 603882101,
+  "full_slug": "de/portal/my-tasks/patient-s-sessions/reviews-left",
+  "content": {
+    "Text": "{reviewsLeft, plural, =0 {Keine offene Aufgaben} one {1 offene Aufgabe} other {{reviewsLeft} offene Aufgaben}}",
+    "component": "TextBlock"
+  }
+}

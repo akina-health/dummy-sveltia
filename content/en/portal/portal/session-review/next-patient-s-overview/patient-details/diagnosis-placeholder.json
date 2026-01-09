@@ -1,0 +1,8 @@
+{
+  "id": 603882400,
+  "full_slug": "portal/session-review/next-patient-s-overview/patient-details/diagnosis-placeholder",
+  "content": {
+    "Text": "Add diagnosis here",
+    "component": "TextBlock"
+  }
+}

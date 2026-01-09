@@ -1,0 +1,8 @@
+{
+  "id": 603882606,
+  "full_slug": "portal/settings/notifications/email-notifications/title",
+  "content": {
+    "Text": "Email notifications",
+    "component": "TextBlock"
+  }
+}
