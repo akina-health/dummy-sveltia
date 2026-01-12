@@ -12,11 +12,21 @@ i18n:
 media_folder: "public/images"
 public_folder: "/images"
 
-# We disable the "Quick Search" globally to prevent lag with 1000s of files
+# Disable search to improve performance
 search: false
 
 collections:
-
+  - name: "test_simple_collection"
+    label: "🧪 Test Simple (Root)"
+    folder: "content"
+    create: true
+    i18n: false
+    path: "test_simple" # Matches test_simple.json
+    extension: "json"
+    format: "json"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
   - name: "portal"
     label: "📂 Portal"
     folder: "content/en/portal"
@@ -5569,7 +5579,7 @@ collections:
     label: "📂 Portal / Settings / Legal Pages"
     folder: "content/en/portal/settings/legal-pages"
     create: true
-    i18n: true
+    i18n: false # Disabled to test path resolution
     path: "{{slug}}"
     extension: "json"
     format: "json"

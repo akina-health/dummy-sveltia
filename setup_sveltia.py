@@ -158,7 +158,7 @@ i18n:
 media_folder: "public/images"
 public_folder: "/images"
 
-# We disable the "Quick Search" globally to prevent lag with 1000s of files
+# Disable search to improve performance
 search: false
 
 collections:
