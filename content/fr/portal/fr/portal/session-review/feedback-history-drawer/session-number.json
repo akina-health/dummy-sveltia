@@ -1,8 +1,0 @@
-{
-  "id": 603882531,
-  "full_slug": "fr/portal/session-review/feedback-history-drawer/session-number",
-  "content": {
-    "Text": "Séance {number}",
-    "component": "TextBlock"
-  }
-}

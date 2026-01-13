@@ -1,8 +1,0 @@
-{
-  "id": 603882297,
-  "full_slug": "it/portal/patient-management/extend-therapy-modal/error-toast-message",
-  "content": {
-    "Text": "Il piano terapeutico per {patientName} non è stato esteso.",
-    "component": "TextBlock"
-  }
-}

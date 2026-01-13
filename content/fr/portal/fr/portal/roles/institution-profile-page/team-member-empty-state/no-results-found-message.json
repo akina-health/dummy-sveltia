@@ -1,8 +1,0 @@
-{
-  "id": 603882880,
-  "full_slug": "fr/portal/roles/institution-profile-page/team-member-empty-state/no-results-found-message",
-  "content": {
-    "Text": "Nous n’avons trouvé aucun membre de l’équipe correspondant à ta recherche",
-    "component": "TextBlock"
-  }
-}

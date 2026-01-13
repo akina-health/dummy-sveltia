@@ -1,8 +1,0 @@
-{
-  "id": 603882017,
-  "full_slug": "portal/entry-screens/t-c-pop-up/new-member-terms/error",
-  "content": {
-    "Text": "You must agree to the terms and conditions and privacy policy to proceed.",
-    "component": "TextBlock"
-  }
-}

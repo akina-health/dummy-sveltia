@@ -1,8 +1,0 @@
-{
-  "id": 603882204,
-  "full_slug": "fr/portal/patient-management/invite-new-patient-module/date-of-birth-label",
-  "content": {
-    "Text": "Date de naissance*",
-    "component": "TextBlock"
-  }
-}

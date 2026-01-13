@@ -1,8 +1,0 @@
-{
-  "id": 603882136,
-  "full_slug": "it/portal/patient-management/send-reminder-error-message",
-  "content": {
-    "Text": "Il promemoria per {patientName} non è stato inviato.",
-    "component": "TextBlock"
-  }
-}

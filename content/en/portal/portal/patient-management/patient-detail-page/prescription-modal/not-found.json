@@ -1,8 +1,0 @@
-{
-  "id": 603882277,
-  "full_slug": "portal/patient-management/patient-detail-page/prescription-modal/not-found",
-  "content": {
-    "Text": "No prescription available",
-    "component": "TextBlock"
-  }
-}

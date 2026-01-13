@@ -1,8 +1,0 @@
-{
-  "id": 603882276,
-  "full_slug": "de/portal/patient-management/patient-detail-page/prescription-modal/title",
-  "content": {
-    "Text": "{name}'s Verordnung",
-    "component": "TextBlock"
-  }
-}

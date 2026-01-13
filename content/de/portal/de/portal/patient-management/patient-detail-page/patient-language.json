@@ -1,8 +1,0 @@
-{
-  "id": 106756616171804,
-  "full_slug": "de/portal/patient-management/patient-detail-page/patient-language",
-  "content": {
-    "Text": "Sprache: {language}",
-    "component": "TextBlock"
-  }
-}

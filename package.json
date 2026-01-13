@@ -1,0 +1,29 @@
+{
+  "name": "dummy-sveltia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akina-health/dummy-sveltia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akina-health/dummy-sveltia/issues"
+  },
+  "homepage": "https://github.com/akina-health/dummy-sveltia#readme",
+  "description": "",
+  "dependencies": {
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "tinacms": "^3.3.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^2.1.0",
+    "@types/node": "^25.0.7"
+  }
+}

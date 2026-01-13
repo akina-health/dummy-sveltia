@@ -1,8 +1,0 @@
-{
-  "id": 603882336,
-  "full_slug": "de/portal/patient-management/therapy-plan-management/edit-routine-custom-exercise-sub-text",
-  "content": {
-    "Text": "Diese Übung ist nicht im Standard-Therapieplan oder in der aktuellen Therapiephase enthalten. Daher sind für diese Übung keine Schwierigkeitsstufen verfügbar.",
-    "component": "TextBlock"
-  }
-}

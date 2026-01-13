@@ -1,8 +1,0 @@
-{
-  "id": 106058417042064,
-  "full_slug": "it/portal/patient-management/therapy-plan-management/reactivated-on-date",
-  "content": {
-    "Text": "Riattivato il: {date}",
-    "component": "TextBlock"
-  }
-}

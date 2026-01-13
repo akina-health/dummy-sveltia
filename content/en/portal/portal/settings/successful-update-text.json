@@ -1,8 +1,0 @@
-{
-  "id": 603882558,
-  "full_slug": "portal/settings/successful-update-text",
-  "content": {
-    "Text": "Successfully updated settings",
-    "component": "TextBlock"
-  }
-}

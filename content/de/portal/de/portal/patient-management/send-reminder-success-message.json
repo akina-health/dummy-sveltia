@@ -1,8 +1,0 @@
-{
-  "id": 603882129,
-  "full_slug": "de/portal/patient-management/send-reminder-success-message",
-  "content": {
-    "Text": "Erinnerung wurde an {patientName} gesendet",
-    "component": "TextBlock"
-  }
-}

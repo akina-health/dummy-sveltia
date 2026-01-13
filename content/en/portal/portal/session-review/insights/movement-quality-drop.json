@@ -1,8 +1,0 @@
-{
-  "id": 92596451359209,
-  "full_slug": "portal/session-review/insights/movement-quality-drop",
-  "content": {
-    "Text": "Movement quality dropped by {drop_percentage}% since last time.",
-    "component": "TextBlock"
-  }
-}

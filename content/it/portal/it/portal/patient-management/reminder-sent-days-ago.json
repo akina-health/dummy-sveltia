@@ -1,8 +1,0 @@
-{
-  "id": 113838698428589,
-  "full_slug": "it/portal/patient-management/reminder-sent-days-ago",
-  "content": {
-    "Text": "{no_days, plural,   =0 {Reinviato oggi}   one {Reinviato 1 giorno fa}   other {Reinviato # giorni fa} }",
-    "component": "TextBlock"
-  }
-}

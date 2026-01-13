@@ -1,9 +1,0 @@
-{
-  "id": 603882285,
-  "full_slug": "de/portal/patient-management/empty-state/all-tab",
-  "content": {
-    "Title": "Noch keine Patienten",
-    "SubText": "Sobald ein Patient Akina beitritt, wird er hier aufgelistet.",
-    "component": "TitleWithSubtext"
-  }
-}

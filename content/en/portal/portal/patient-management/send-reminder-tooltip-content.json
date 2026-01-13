@@ -1,8 +1,0 @@
-{
-  "id": 603882130,
-  "full_slug": "portal/patient-management/send-reminder-tooltip-content",
-  "content": {
-    "Text": "You can only send a reminder once every 3 days.",
-    "component": "TextBlock"
-  }
-}

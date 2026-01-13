@@ -1,8 +1,0 @@
-{
-  "id": 603882326,
-  "full_slug": "portal/patient-management/therapy-plan-management/discard-changes-description",
-  "content": {
-    "Text": "Are you sure you want to discard the changes made?",
-    "component": "TextBlock"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 603882836,
-  "full_slug": "fr/portal/roles/institution-profile-page/delete-team-member/delete-error",
-  "content": {
-    "Text": "Échec de la suppression du membre, réessaie",
-    "component": "TextBlock"
-  }
-}

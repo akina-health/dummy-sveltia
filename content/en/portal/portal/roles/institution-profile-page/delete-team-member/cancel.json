@@ -1,8 +1,0 @@
-{
-  "id": 603882832,
-  "full_slug": "portal/roles/institution-profile-page/delete-team-member/cancel",
-  "content": {
-    "Text": "Cancel",
-    "component": "TextBlock"
-  }
-}

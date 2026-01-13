@@ -1,8 +1,0 @@
-{
-  "id": 603882834,
-  "full_slug": "portal/roles/institution-profile-page/delete-team-member/delete-oneself-warning",
-  "content": {
-    "Text": "You cannot delete your own profile",
-    "component": "TextBlock"
-  }
-}

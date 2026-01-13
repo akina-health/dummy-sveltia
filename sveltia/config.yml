@@ -16,67 +16,6 @@ public_folder: "/images"
 search: false
 
 collections:
-  - name: "test_simple_collection"
-    label: "🧪 Test Simple (Root)"
-    folder: "content"
-    create: true
-    i18n: false
-    path: "test_simple"
-    extension: "json"
-    format: "json"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-
-  - name: "debug_complex_root"
-    label: "🧪 Test Complex (Root)"
-    folder: "content"
-    create: true
-    i18n: false
-    path: "debug_complex"
-    extension: "json"
-    format: "json"
-    fields:
-      - {label: "ID", name: "id", widget: "number", required: false}
-      - {label: "Full Slug", name: "full_slug", widget: "hidden"}
-      - label: "Content"
-        name: "content"
-        widget: "object"
-        fields:
-          # Basic Text
-          - {label: "Text", name: "Text", widget: "string", required: false}
-          - {label: "Title", name: "Title", widget: "string", required: false}
-          - {label: "Sub Text", name: "SubText", widget: "markdown", required: false}
-          # Complex Objects
-          - label: "PDF Attachment"
-            name: "PDF"
-            widget: "object"
-            required: false
-            fields:
-              - {label: "File", name: "filename", widget: "file", required: false}
-          # Lists
-          - label: "Releases"
-            name: "Releases"
-            widget: "list"
-            required: false
-            fields:
-              - {label: "Version", name: "ReleaseTitle", widget: "string"}
-
-  - name: "debug_complex_root"
-    label: "🧪 Test Complex (Root)"
-    folder: "content"
-    create: true
-    i18n: false
-    path: "debug_complex"
-    extension: "json"
-    format: "json"
-    fields:
-      - {label: "ID", name: "id", widget: "number", required: false}
-      - label: "Content"
-        name: "content"
-        widget: "object"
-        fields:
-          - {label: "Title", name: "Title", widget: "string"}
 
   - name: "portal"
     label: "📂 Portal"
@@ -5630,7 +5569,7 @@ collections:
     label: "📂 Portal / Settings / Legal Pages"
     folder: "content/en/portal/settings/legal-pages"
     create: true
-    i18n: false # Disabled for debugging
+    i18n: true
     path: "{{slug}}"
     extension: "json"
     format: "json"

@@ -1,8 +1,0 @@
-{
-  "id": 603882125,
-  "full_slug": "fr/portal/patient-management/num-sessions-in-num-days",
-  "content": {
-    "Text": "{numSessions, plural, =0 {0 séances en {numDays} jours} one {1 séance en {numDays} jours} other {{numSessions} séances en {numDays} jours}}",
-    "component": "TextBlock"
-  }
-}

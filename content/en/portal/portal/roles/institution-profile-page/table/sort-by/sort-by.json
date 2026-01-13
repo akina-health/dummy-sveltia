@@ -1,8 +1,0 @@
-{
-  "id": 603882773,
-  "full_slug": "portal/roles/institution-profile-page/table/sort-by/sort-by",
-  "content": {
-    "Text": "Sort by",
-    "component": "TextBlock"
-  }
-}

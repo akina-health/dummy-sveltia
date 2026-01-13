@@ -1,9 +1,0 @@
-{
-  "id": 603882635,
-  "full_slug": "it/portal/search/no-results-found",
-  "content": {
-    "Title": "Nessun risultato trovato",
-    "SubText": "Prova a controllare se ci sono errori di battitura o a riformulare la tua ricerca.",
-    "component": "TitleWithSubtext"
-  }
-}

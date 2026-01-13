@@ -1,8 +1,0 @@
-{
-  "id": 603882878,
-  "full_slug": "it/portal/roles/institution-profile-page/team-member-empty-state/no-team-members-message",
-  "content": {
-    "Text": "Non appena i membri del tuo team si uniscono ad Akina, appariranno qui.",
-    "component": "TextBlock"
-  }
-}

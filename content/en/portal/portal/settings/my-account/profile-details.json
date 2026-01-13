@@ -1,9 +1,0 @@
-{
-  "id": 603882560,
-  "full_slug": "portal/settings/my-account/profile-details",
-  "content": {
-    "Title": "Profile details",
-    "SubText": "Manage your profile information.",
-    "component": "TitleWithSubtext"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 603882303,
-  "full_slug": "portal/patient-management/revoke-invitation-modal/error-message",
-  "content": {
-    "Text": "Invitation for {patientName} is not revoked",
-    "component": "TextBlock"
-  }
-}

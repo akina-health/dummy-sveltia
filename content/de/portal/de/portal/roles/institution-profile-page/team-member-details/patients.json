@@ -1,8 +1,0 @@
-{
-  "id": 603882849,
-  "full_slug": "de/portal/roles/institution-profile-page/team-member-details/patients",
-  "content": {
-    "Text": "Patienten ({number})",
-    "component": "TextBlock"
-  }
-}

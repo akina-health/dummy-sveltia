@@ -1,8 +1,0 @@
-{
-  "id": 92527760929933,
-  "full_slug": "fr/portal/session-review/insights/consistent-high-movement-quality",
-  "content": {
-    "Text": "Qualité du mouvement {min_movement_quality, select,   100 {à 100 % de façon constante.}   other {>{min_movement_quality} % de façon constante.} }",
-    "component": "TextBlock"
-  }
-}

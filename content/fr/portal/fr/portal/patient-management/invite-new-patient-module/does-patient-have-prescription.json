@@ -1,8 +1,0 @@
-{
-  "id": 603882194,
-  "full_slug": "fr/portal/patient-management/invite-new-patient-module/does-patient-have-prescription",
-  "content": {
-    "Text": "Est-ce que le patient a une ordonnance pour Akina?*",
-    "component": "TextBlock"
-  }
-}

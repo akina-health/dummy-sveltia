@@ -1,9 +1,0 @@
-{
-  "id": 603882053,
-  "full_slug": "portal/home/task-overview/well-done-you-are-up-to-date",
-  "content": {
-    "Title": "Well done! You are all caught up.",
-    "SubText": "As soon as your patients do more trainings, they will appear here.",
-    "component": "TitleWithSubtext"
-  }
-}

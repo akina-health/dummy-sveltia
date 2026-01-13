@@ -1,8 +1,0 @@
-{
-  "id": 106054074859295,
-  "full_slug": "fr/portal/patient-management/therapy-plan-management/starts-in-number-days-tag",
-  "content": {
-    "Text": "Débute {days, plural,   =0 {aujourd’hui}   one {dans # jour}   other {dans # jours} }",
-    "component": "TextBlock"
-  }
-}

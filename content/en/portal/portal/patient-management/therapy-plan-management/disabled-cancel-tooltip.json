@@ -1,8 +1,0 @@
-{
-  "id": 603882338,
-  "full_slug": "portal/patient-management/therapy-plan-management/disabled-cancel-tooltip",
-  "content": {
-    "Text": "Minimum of one exercise per session reached. Please add another exercise before deleting this one.",
-    "component": "TextBlock"
-  }
-}

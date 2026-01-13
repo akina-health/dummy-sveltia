@@ -1,8 +1,0 @@
-{
-  "id": 603882135,
-  "full_slug": "portal/patient-management/resend-invite-error-message",
-  "content": {
-    "Text": "Invitation to {patientName} is not resent",
-    "component": "TextBlock"
-  }
-}

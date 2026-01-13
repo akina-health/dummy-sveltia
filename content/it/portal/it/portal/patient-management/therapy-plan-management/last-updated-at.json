@@ -1,8 +1,0 @@
-{
-  "id": 603882311,
-  "full_slug": "it/portal/patient-management/therapy-plan-management/last-updated-at",
-  "content": {
-    "Text": "Ultimo aggiornamento {date} a {time}",
-    "component": "TextBlock"
-  }
-}

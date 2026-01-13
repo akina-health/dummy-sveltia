@@ -1,8 +1,0 @@
-{
-  "id": 92596451359209,
-  "full_slug": "de/portal/session-review/insights/movement-quality-drop",
-  "content": {
-    "Text": "Bewegungsqualität sank um {drop_percentage}% seit dem letzten Mal.",
-    "component": "TextBlock"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 603882338,
-  "full_slug": "it/portal/patient-management/therapy-plan-management/disabled-cancel-tooltip",
-  "content": {
-    "Text": "Minimo di un esercizio per sessione raggiunto. Aggiungi un altro esercizio prima di cancellare l'esercizio selezionato.",
-    "component": "TextBlock"
-  }
-}

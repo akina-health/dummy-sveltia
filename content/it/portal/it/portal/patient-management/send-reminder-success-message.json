@@ -1,8 +1,0 @@
-{
-  "id": 603882129,
-  "full_slug": "it/portal/patient-management/send-reminder-success-message",
-  "content": {
-    "Text": "È stato inviato un promemoria a {patientName}.",
-    "component": "TextBlock"
-  }
-}

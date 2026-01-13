@@ -1,9 +1,0 @@
-{
-  "id": 109125209631496,
-  "full_slug": "portal/patient-management/empty-state/completed-tab",
-  "content": {
-    "Title": "No patients with a completed therapy plan",
-    "SubText": "Patients whose therapy plans concluded in the last 30 days will be listed here.",
-    "component": "TitleWithSubtext"
-  }
-}

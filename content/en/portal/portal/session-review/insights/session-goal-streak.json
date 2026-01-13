@@ -1,8 +1,0 @@
-{
-  "id": 92571613427970,
-  "full_slug": "portal/session-review/insights/session-goal-streak",
-  "content": {
-    "Text": "Goal of ≥3 trainings met for {streak} weeks in a row.",
-    "component": "TextBlock"
-  }
-}

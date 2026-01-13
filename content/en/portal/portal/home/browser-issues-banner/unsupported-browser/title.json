@@ -1,8 +1,0 @@
-{
-  "id": 603882084,
-  "full_slug": "portal/home/browser-issues-banner/unsupported-browser/title",
-  "content": {
-    "Text": "Akina isn't compatible with your browser. Please use Chrome or Firefox for the best experience.",
-    "component": "TextBlock"
-  }
-}

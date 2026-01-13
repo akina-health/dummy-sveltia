@@ -1,8 +1,0 @@
-{
-  "id": 92527760929933,
-  "full_slug": "de/portal/session-review/insights/consistent-high-movement-quality",
-  "content": {
-    "Text": "Bewegungsqualität liegt konstant {min_movement_quality, select,   100 {bei 100 %.}   other {über {min_movement_quality}%.} }",
-    "component": "TextBlock"
-  }
-}

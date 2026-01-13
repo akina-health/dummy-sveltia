@@ -1,8 +1,0 @@
-{
-  "id": 603882336,
-  "full_slug": "fr/portal/patient-management/therapy-plan-management/edit-routine-custom-exercise-sub-text",
-  "content": {
-    "Text": "Cet exercice ne fait pas partie du plan de traitement standard ni de la phase actuelle de thérapie. Par conséquent, aucun niveau de difficulté n’est disponible pour cette activité.",
-    "component": "TextBlock"
-  }
-}

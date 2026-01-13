@@ -1,8 +1,0 @@
-{
-  "id": 92197130292487,
-  "full_slug": "de/portal/patient-management/exercise-insights/trend-tooltip",
-  "content": {
-    "Text": "Vergleich des letzten Werts mit dem Durchschnitt der letzten vier Trainings (oder weniger).",
-    "component": "TextBlock"
-  }
-}

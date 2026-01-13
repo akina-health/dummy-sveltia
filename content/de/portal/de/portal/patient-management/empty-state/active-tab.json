@@ -1,9 +1,0 @@
-{
-  "id": 108899346731964,
-  "full_slug": "de/portal/patient-management/empty-state/active-tab",
-  "content": {
-    "Title": "Keine aktiven Patienten",
-    "SubText": "Patienten, die in den letzten 14 Tagen mindestens 1 Training absolviert haben, werden hier aufgelistet.",
-    "component": "TitleWithSubtext"
-  }
-}

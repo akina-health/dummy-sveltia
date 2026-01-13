@@ -1,8 +1,0 @@
-{
-  "id": 106304986717706,
-  "full_slug": "de/portal/patient-management/therapy-plan-management/confirm-phase-change-description",
-  "content": {
-    "Text": "Bestätige die Umstellung des Plans von {name} auf Phase {phase}.",
-    "component": "TextBlock"
-  }
-}

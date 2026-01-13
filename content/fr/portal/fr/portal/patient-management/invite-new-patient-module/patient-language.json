@@ -1,9 +1,0 @@
-{
-  "id": 603882192,
-  "full_slug": "fr/portal/patient-management/invite-new-patient-module/patient-language",
-  "content": {
-    "Title": "Langue du patient*",
-    "SubText": "Choisis une langue",
-    "component": "TitleWithSubtext"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 603882312,
-  "full_slug": "de/portal/patient-management/therapy-plan-management/phase-number",
-  "content": {
-    "Text": "Phase {number}",
-    "component": "TextBlock"
-  }
-}

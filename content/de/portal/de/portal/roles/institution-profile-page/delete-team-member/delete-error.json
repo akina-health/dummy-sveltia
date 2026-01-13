@@ -1,8 +1,0 @@
-{
-  "id": 603882836,
-  "full_slug": "de/portal/roles/institution-profile-page/delete-team-member/delete-error",
-  "content": {
-    "Text": "Teammitglied konnte nicht gelöscht werden, versuche es erneut",
-    "component": "TextBlock"
-  }
-}

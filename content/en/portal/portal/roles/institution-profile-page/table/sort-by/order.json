@@ -1,8 +1,0 @@
-{
-  "id": 603882774,
-  "full_slug": "portal/roles/institution-profile-page/table/sort-by/order",
-  "content": {
-    "Text": "Order",
-    "component": "TextBlock"
-  }
-}

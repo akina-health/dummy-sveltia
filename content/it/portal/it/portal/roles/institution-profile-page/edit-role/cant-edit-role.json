@@ -1,8 +1,0 @@
-{
-  "id": 603882827,
-  "full_slug": "it/portal/roles/institution-profile-page/edit-role/cant-edit-role",
-  "content": {
-    "Text": "I pazienti assegnati devono essere trasferiti prima di poter modificare il ruolo del Fisioterapista.",
-    "component": "TextBlock"
-  }
-}

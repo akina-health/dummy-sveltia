@@ -1,8 +1,0 @@
-{
-  "id": 603882548,
-  "full_slug": "it/portal/session-review/feedback-history-drawer/comments/routine-subtitle",
-  "content": {
-    "Text": "Esercizio n. {index}",
-    "component": "TextBlock"
-  }
-}

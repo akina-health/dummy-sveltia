@@ -1,9 +1,0 @@
-{
-  "id": 603882750,
-  "full_slug": "it/portal/roles/institution-profile-page/update-institution-profile-details/photo-gallery",
-  "content": {
-    "Title": "Galleria della clinica",
-    "SubText": "Migliora l'immagine della tua clinica caricando delle foto che verranno mostrate ai pazienti. (Puoi caricare fino a 3 immagini)",
-    "component": "TitleWithSubtext"
-  }
-}

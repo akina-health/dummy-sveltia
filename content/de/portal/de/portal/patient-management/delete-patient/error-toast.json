@@ -1,8 +1,0 @@
-{
-  "id": 86127725340872,
-  "full_slug": "de/portal/patient-management/delete-patient/error-toast",
-  "content": {
-    "Text": "Patient konnte nicht getrennt werden. Versuch es erneut",
-    "component": "TextBlock"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 603882299,
-  "full_slug": "fr/portal/patient-management/revoke-invitation-modal/description",
-  "content": {
-    "Text": "Après avoir révoqué l’invitation, le patient sera retiré de ta liste de patients. Tu peux inviter à nouveau le patient en cliquant sur le bouton «Nouveau patient».",
-    "component": "TextBlock"
-  }
-}

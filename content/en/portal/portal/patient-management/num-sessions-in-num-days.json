@@ -1,8 +1,0 @@
-{
-  "id": 603882125,
-  "full_slug": "portal/patient-management/num-sessions-in-num-days",
-  "content": {
-    "Text": "{numSessions, plural, =0 {0 trainings in {numDays} days} one {1 training in {numDays} days} other {{numSessions} trainings in {numDays} days}}",
-    "component": "TextBlock"
-  }
-}

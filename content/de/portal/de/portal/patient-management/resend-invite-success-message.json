@@ -1,8 +1,0 @@
-{
-  "id": 603882134,
-  "full_slug": "de/portal/patient-management/resend-invite-success-message",
-  "content": {
-    "Text": "Einladung für {patientName} wurde erneut gesendet",
-    "component": "TextBlock"
-  }
-}

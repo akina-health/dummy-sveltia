@@ -1,9 +1,0 @@
-{
-  "id": 603882635,
-  "full_slug": "portal/search/no-results-found",
-  "content": {
-    "Title": "No results found",
-    "SubText": "Try checking for typos or rephrasing your search",
-    "component": "TitleWithSubtext"
-  }
-}

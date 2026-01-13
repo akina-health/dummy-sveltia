@@ -1,8 +1,0 @@
-{
-  "id": 603882136,
-  "full_slug": "fr/portal/patient-management/send-reminder-error-message",
-  "content": {
-    "Text": "Le rappel à {patientName} n’a pas été envoyé",
-    "component": "TextBlock"
-  }
-}

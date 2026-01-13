@@ -1,8 +1,0 @@
-{
-  "id": 86127725340872,
-  "full_slug": "fr/portal/patient-management/delete-patient/error-toast",
-  "content": {
-    "Text": "Impossible de déconnecter le patient. Essaie encore, s’il te plaît.",
-    "component": "TextBlock"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 603882101,
-  "full_slug": "portal/my-tasks/patient-s-sessions/reviews-left",
-  "content": {
-    "Text": "{reviewsLeft, plural, =0 {No reviews} one {1 review} other {{reviewsLeft} reviews}} left",
-    "component": "TextBlock"
-  }
-}

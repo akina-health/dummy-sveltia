@@ -1,8 +1,0 @@
-{
-  "id": 102418439731544,
-  "full_slug": "it/portal/patient-management/patient-detail-page/pain-level-trend-tooltip",
-  "content": {
-    "Text": "Confronto tra il valore più recente e il valore di riferimento.",
-    "component": "TextBlock"
-  }
-}

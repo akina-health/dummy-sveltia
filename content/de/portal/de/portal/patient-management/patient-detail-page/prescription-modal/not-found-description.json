@@ -1,8 +1,0 @@
-{
-  "id": 603882279,
-  "full_slug": "de/portal/patient-management/patient-detail-page/prescription-modal/not-found-description",
-  "content": {
-    "Text": "Für diesen Patienten liegt keine Verordnung vor.",
-    "component": "TextBlock"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "id": 603882053,
-  "full_slug": "fr/portal/home/task-overview/well-done-you-are-up-to-date",
-  "content": {
-    "Title": "Bravo! Tu as rattrapé ton retard.",
-    "SubText": "Dès que tes patients feront d'autres séances, elles apparaîtront ici.",
-    "component": "TitleWithSubtext"
-  }
-}

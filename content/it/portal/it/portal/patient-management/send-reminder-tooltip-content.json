@@ -1,8 +1,0 @@
-{
-  "id": 603882130,
-  "full_slug": "it/portal/patient-management/send-reminder-tooltip-content",
-  "content": {
-    "Text": "È possibile inviare un promemoria solo una volta ogni 3 giorni.",
-    "component": "TextBlock"
-  }
-}

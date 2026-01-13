@@ -1,8 +1,0 @@
-{
-  "id": 603882197,
-  "full_slug": "portal/patient-management/invite-new-patient-module/drop-prescription",
-  "content": {
-    "Text": "Drop the prescription here or",
-    "component": "TextBlock"
-  }
-}

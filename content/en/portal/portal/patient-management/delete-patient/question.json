@@ -1,8 +1,0 @@
-{
-  "id": 603882209,
-  "full_slug": "portal/patient-management/delete-patient/question",
-  "content": {
-    "Text": "Are you sure you want to disconnect the patient?",
-    "component": "TextBlock"
-  }
-}

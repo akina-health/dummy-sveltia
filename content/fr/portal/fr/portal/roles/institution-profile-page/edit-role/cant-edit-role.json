@@ -1,8 +1,0 @@
-{
-  "id": 603882827,
-  "full_slug": "fr/portal/roles/institution-profile-page/edit-role/cant-edit-role",
-  "content": {
-    "Text": "Les patients assignés doivent d’abord être transférés avant de pouvoir changer le rôle du physiothérapeute",
-    "component": "TextBlock"
-  }
-}

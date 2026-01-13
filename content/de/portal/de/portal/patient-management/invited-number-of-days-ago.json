@@ -1,8 +1,0 @@
-{
-  "id": 603882127,
-  "full_slug": "de/portal/patient-management/invited-number-of-days-ago",
-  "content": {
-    "Text": "{numDays, plural, =0 {Heute} one {Gestern} other {Vor {numDays} Tagen}} eingeladen",
-    "component": "TextBlock"
-  }
-}

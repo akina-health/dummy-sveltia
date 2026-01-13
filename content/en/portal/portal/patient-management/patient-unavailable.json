@@ -1,8 +1,0 @@
-{
-  "id": 108520816812591,
-  "full_slug": "portal/patient-management/patient-unavailable",
-  "content": {
-    "Text": "Patient unavailable. This patient account no longer exists.",
-    "component": "TextBlock"
-  }
-}

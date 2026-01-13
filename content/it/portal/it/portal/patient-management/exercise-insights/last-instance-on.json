@@ -1,8 +1,0 @@
-{
-  "id": 92201232547952,
-  "full_slug": "it/portal/patient-management/exercise-insights/last-instance-on",
-  "content": {
-    "Text": "Ultima il: {date}",
-    "component": "TextBlock"
-  }
-}

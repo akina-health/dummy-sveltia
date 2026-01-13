@@ -1,8 +1,0 @@
-{
-  "id": 119488806298699,
-  "full_slug": "fr/portal/roles/institution-profile-page/assign-pt-to-patient/success-toast",
-  "content": {
-    "Text": "Patient transféré avec succès",
-    "component": "TextBlock"
-  }
-}

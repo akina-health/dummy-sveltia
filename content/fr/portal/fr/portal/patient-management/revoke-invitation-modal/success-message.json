@@ -1,8 +1,0 @@
-{
-  "id": 603882302,
-  "full_slug": "fr/portal/patient-management/revoke-invitation-modal/success-message",
-  "content": {
-    "Text": "L’invitation pour {patientName} est annulée",
-    "component": "TextBlock"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 92593839982238,
-  "full_slug": "portal/session-review/insights/pain-level-increase",
-  "content": {
-    "Text": "Pain level worsened from {previous_pain_level} to {pain_level} since the last training session.",
-    "component": "TextBlock"
-  }
-}

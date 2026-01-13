@@ -1,8 +1,0 @@
-{
-  "id": 603882820,
-  "full_slug": "portal/roles/institution-profile-page/assign-pt-to-patient/no-pt-selected",
-  "content": {
-    "Text": "Please select a therapist",
-    "component": "TextBlock"
-  }
-}

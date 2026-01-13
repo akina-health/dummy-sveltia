@@ -1,8 +1,0 @@
-{
-  "id": 603882276,
-  "full_slug": "fr/portal/patient-management/patient-detail-page/prescription-modal/title",
-  "content": {
-    "Text": "L’ordonnance de {name}",
-    "component": "TextBlock"
-  }
-}

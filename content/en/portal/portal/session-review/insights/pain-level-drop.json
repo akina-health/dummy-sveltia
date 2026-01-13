@@ -1,8 +1,0 @@
-{
-  "id": 92593115743877,
-  "full_slug": "portal/session-review/insights/pain-level-drop",
-  "content": {
-    "Text": "Pain level improved from {previous_pain_level} to {pain_level} since last training session.",
-    "component": "TextBlock"
-  }
-}

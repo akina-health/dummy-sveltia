@@ -1,8 +1,0 @@
-{
-  "id": 92597102085021,
-  "full_slug": "de/portal/session-review/insights/back-from-break",
-  "content": {
-    "Text": "Dies ist das erste Training nach einer {break_days}-tägigen Pause.",
-    "component": "TextBlock"
-  }
-}

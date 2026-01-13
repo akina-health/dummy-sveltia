@@ -1,9 +1,0 @@
-{
-  "id": 108898416523548,
-  "full_slug": "portal/patient-management/empty-state/onboarding-tab",
-  "content": {
-    "Title": "No patients are currently being onboarded",
-    "SubText": "Patients setting up their account and prior to their first session will appear here.",
-    "component": "TitleWithSubtext"
-  }
-}

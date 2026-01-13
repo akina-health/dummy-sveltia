@@ -1,8 +1,0 @@
-{
-  "id": 603882811,
-  "full_slug": "portal/roles/institution-profile-page/invite-new-team-member/success",
-  "content": {
-    "Text": "Team member invited successfully",
-    "component": "TextBlock"
-  }
-}

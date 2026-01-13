@@ -1,8 +1,0 @@
-{
-  "id": 92197130292487,
-  "full_slug": "it/portal/patient-management/exercise-insights/trend-tooltip",
-  "content": {
-    "Text": "Confronto tra il valore più recente e la media delle ultime quattro sessioni (o meno).",
-    "component": "TextBlock"
-  }
-}

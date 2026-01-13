@@ -1,8 +1,0 @@
-{
-  "id": 603882827,
-  "full_slug": "de/portal/roles/institution-profile-page/edit-role/cant-edit-role",
-  "content": {
-    "Text": "Die zugewiesenen Patienten müssen erst überwiesen werden, um die Rolle des Physiotherapeuten zu ändern",
-    "component": "TextBlock"
-  }
-}

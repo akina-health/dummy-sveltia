@@ -1,8 +1,0 @@
-{
-  "id": 603882309,
-  "full_slug": "portal/patient-management/therapy-plan-management/session-too-short",
-  "content": {
-    "Text": "Short training. Include min.  {param} exercises for an optimal training experience.",
-    "component": "TextBlock"
-  }
-}

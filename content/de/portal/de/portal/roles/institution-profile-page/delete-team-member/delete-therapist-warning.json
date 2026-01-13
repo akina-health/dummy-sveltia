@@ -1,8 +1,0 @@
-{
-  "id": 603882835,
-  "full_slug": "de/portal/roles/institution-profile-page/delete-team-member/delete-therapist-warning",
-  "content": {
-    "Text": "Du kannst einen Therapeuten, der aktiv Patienten betreut, nicht entfernen. Übertrage zuerst Patienten, um diesen Therapeuten zu entfernen.",
-    "component": "TextBlock"
-  }
-}

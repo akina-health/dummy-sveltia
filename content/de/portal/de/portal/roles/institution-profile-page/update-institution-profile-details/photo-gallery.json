@@ -1,9 +1,0 @@
-{
-  "id": 603882750,
-  "full_slug": "de/portal/roles/institution-profile-page/update-institution-profile-details/photo-gallery",
-  "content": {
-    "Title": "Bildergalerie",
-    "SubText": "Verbessere das öffentliche Profil deiner Klinik, indem du Fotos hochlädst, die den Patienten gezeigt werden. (Du kannst bis zu 3 Bilder hochladen.)",
-    "component": "TitleWithSubtext"
-  }
-}

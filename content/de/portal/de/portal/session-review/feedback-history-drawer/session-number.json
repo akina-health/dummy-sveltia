@@ -1,8 +1,0 @@
-{
-  "id": 603882531,
-  "full_slug": "de/portal/session-review/feedback-history-drawer/session-number",
-  "content": {
-    "Text": "Training {number}",
-    "component": "TextBlock"
-  }
-}

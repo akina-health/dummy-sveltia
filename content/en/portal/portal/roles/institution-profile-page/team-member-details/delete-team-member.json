@@ -1,8 +1,0 @@
-{
-  "id": 603882844,
-  "full_slug": "portal/roles/institution-profile-page/team-member-details/delete-team-member",
-  "content": {
-    "Text": "Delete team member",
-    "component": "TextBlock"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 92521267392686,
-  "full_slug": "de/portal/session-review/insights/movement-quality-improvement",
-  "content": {
-    "Text": "Die Bewegungsqualität stieg seit dem letzten Mal um {improvement_percentage} %.",
-    "component": "TextBlock"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 603882783,
-  "full_slug": "it/portal/roles/institution-profile-page/table/filter-module/clear-filters",
-  "content": {
-    "Text": "Cancella i filtri",
-    "component": "TextBlock"
-  }
-}

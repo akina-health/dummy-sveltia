@@ -1,9 +1,0 @@
-{
-  "id": 603882750,
-  "full_slug": "portal/roles/institution-profile-page/update-institution-profile-details/photo-gallery",
-  "content": {
-    "Title": "Clinic gallery",
-    "SubText": "Enhance your clinic's public profile by uploading photos that will be showcased to patients. (You can upload up to 3 images)",
-    "component": "TitleWithSubtext"
-  }
-}

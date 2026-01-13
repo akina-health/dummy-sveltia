@@ -1,8 +1,0 @@
-{
-  "id": 603882279,
-  "full_slug": "fr/portal/patient-management/patient-detail-page/prescription-modal/not-found-description",
-  "content": {
-    "Text": "Aucune ordonnance n’est disponible pour ce patient.",
-    "component": "TextBlock"
-  }
-}

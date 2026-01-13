@@ -1,8 +1,0 @@
-{
-  "id": 603882314,
-  "full_slug": "fr/portal/patient-management/therapy-plan-management/session-type",
-  "content": {
-    "Text": "Type de séance {type}",
-    "component": "TextBlock"
-  }
-}

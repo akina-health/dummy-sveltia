@@ -1,8 +1,0 @@
-{
-  "id": 92599825972385,
-  "full_slug": "it/portal/session-review/insights/therapy-ending",
-  "content": {
-    "Text": "La terapia termina tra {remaining_days} giorni.",
-    "component": "TextBlock"
-  }
-}

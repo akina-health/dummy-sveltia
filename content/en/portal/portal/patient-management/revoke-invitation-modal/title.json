@@ -1,8 +1,0 @@
-{
-  "id": 603882298,
-  "full_slug": "portal/patient-management/revoke-invitation-modal/title",
-  "content": {
-    "Text": "Revoke invitation for {patientName}?",
-    "component": "TextBlock"
-  }
-}

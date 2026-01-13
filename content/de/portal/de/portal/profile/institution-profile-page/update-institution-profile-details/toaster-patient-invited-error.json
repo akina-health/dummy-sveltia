@@ -1,8 +1,0 @@
-{
-  "id": 603882680,
-  "full_slug": "de/portal/profile/institution-profile-page/update-institution-profile-details/toaster-patient-invited-error",
-  "content": {
-    "Text": "Beim Einladen des Patienten ist ein Fehler aufgetreten. Bitte versuche es später noch einmal.",
-    "component": "TextBlock"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": 603882016,
-  "full_slug": "portal/entry-screens/t-c-pop-up/privacypolicyupdate/error",
-  "content": {
-    "Text": "You must agree to the privacy policy to proceed.",
-    "component": "TextBlock"
-  }
-}

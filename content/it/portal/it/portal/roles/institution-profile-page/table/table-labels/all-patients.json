@@ -1,8 +1,0 @@
-{
-  "id": 603882784,
-  "full_slug": "it/portal/roles/institution-profile-page/table/table-labels/all-patients",
-  "content": {
-    "Text": "Tutti i pazienti",
-    "component": "TextBlock"
-  }
-}

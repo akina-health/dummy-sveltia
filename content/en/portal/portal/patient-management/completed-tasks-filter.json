@@ -1,8 +1,0 @@
-{
-  "id": 101804260876213,
-  "full_slug": "portal/patient-management/completed-tasks-filter",
-  "content": {
-    "Text": "Completed tasks",
-    "component": "TextBlock"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "id": 108898416523548,
-  "full_slug": "it/portal/patient-management/empty-state/onboarding-tab",
-  "content": {
-    "Title": "Nessun paziente in fase di onboarding",
-    "SubText": "I pazienti che stanno configurando il loro account prima della loro prima sessione appariranno qui.",
-    "component": "TitleWithSubtext"
-  }
-}

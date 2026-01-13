@@ -1,8 +1,0 @@
-{
-  "id": 603882326,
-  "full_slug": "it/portal/patient-management/therapy-plan-management/discard-changes-description",
-  "content": {
-    "Text": "Sei sicuro di voler cancellare le modifiche fatte?",
-    "component": "TextBlock"
-  }
-}

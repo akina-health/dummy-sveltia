@@ -1,9 +1,0 @@
-{
-  "id": 109124761172718,
-  "full_slug": "portal/patient-management/empty-state/ending-tab",
-  "content": {
-    "Title": "No patients with an ending therapy plan",
-    "SubText": "Patients whose therapy plan is scheduled to end within the next 15 days will be listed here.",
-    "component": "TitleWithSubtext"
-  }
-}

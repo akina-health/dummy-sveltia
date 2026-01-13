@@ -1,8 +1,0 @@
-{
-  "id": 603882205,
-  "full_slug": "fr/portal/patient-management/invite-new-patient-module/error-age-boundaries",
-  "content": {
-    "Text": "Le patient doit avoir au moins 18 ans pour utiliser Akina.",
-    "component": "TextBlock"
-  }
-}

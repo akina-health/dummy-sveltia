@@ -1,8 +1,0 @@
-{
-  "id": 603882604,
-  "full_slug": "portal/settings/notifications/notifications/patient-updates",
-  "content": {
-    "Text": "Patient assignments and therapy status updates",
-    "component": "TextBlock"
-  }
-}

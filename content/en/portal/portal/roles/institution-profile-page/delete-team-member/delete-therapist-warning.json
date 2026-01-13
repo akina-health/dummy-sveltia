@@ -1,8 +1,0 @@
-{
-  "id": 603882835,
-  "full_slug": "portal/roles/institution-profile-page/delete-team-member/delete-therapist-warning",
-  "content": {
-    "Text": "You cannot delete a therapist who actively supervises patients. Transfer patients first to delete this therapist.",
-    "component": "TextBlock"
-  }
-}

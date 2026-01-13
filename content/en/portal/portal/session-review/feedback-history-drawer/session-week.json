@@ -1,8 +1,0 @@
-{
-  "id": 603882532,
-  "full_slug": "portal/session-review/feedback-history-drawer/session-week",
-  "content": {
-    "Text": "Week {number}",
-    "component": "TextBlock"
-  }
-}

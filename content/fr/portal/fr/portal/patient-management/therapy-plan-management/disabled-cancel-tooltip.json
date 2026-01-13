@@ -1,8 +1,0 @@
-{
-  "id": 603882338,
-  "full_slug": "fr/portal/patient-management/therapy-plan-management/disabled-cancel-tooltip",
-  "content": {
-    "Text": "Tu as atteint le minimum d’un exercice par séance. Ajoute un autre exercice avant de supprimer celui-ci.",
-    "component": "TextBlock"
-  }
-}

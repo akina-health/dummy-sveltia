@@ -8,7 +8,7 @@ from typing import Set, Dict, Any
 # Ensure your source files are named exactly like this in the same folder
 LANGUAGES = ['en', 'de', 'fr', 'it'] 
 OUTPUT_DIR = Path('content')
-ADMIN_DIR = Path('public/admin')
+ADMIN_DIR = Path('sveltia')
 REPO_NAME = 'akina-health/dummy-sveltia' # <--- UPDATE THIS
 
 def load_language_file(lang: str) -> Dict[str, Any] | None:
@@ -25,7 +25,12 @@ def load_language_file(lang: str) -> Dict[str, Any] | None:
 
 def process_content_key(key: str, story: Dict[str, Any], lang: str, found_paths: Set[str]) -> None:
     # Key example: "portal/difficulty/exercise-review-difficulty/medium"
+    # Key example: "portal/difficulty/exercise-review-difficulty/medium" or "de/portal/..."
     parts = key.split('/')
+    
+    # Remove lang prefix if present (e.g. "de/portal" -> "portal")
+    if parts[0] == lang:
+        parts = parts[1:]
     
     # Validation: We need at least a folder and a filename
     if len(parts) < 2:

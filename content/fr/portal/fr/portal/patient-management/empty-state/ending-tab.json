@@ -1,9 +1,0 @@
-{
-  "id": 109124761172718,
-  "full_slug": "fr/portal/patient-management/empty-state/ending-tab",
-  "content": {
-    "Title": "Aucun patient avec plan de thérapie se terminant",
-    "SubText": "Les patients dont le plan de thérapie doit se terminer dans les 15 prochains jours seront listés ici.",
-    "component": "TitleWithSubtext"
-  }
-}

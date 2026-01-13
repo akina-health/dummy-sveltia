@@ -1,9 +1,0 @@
-{
-  "id": 109125209631496,
-  "full_slug": "it/portal/patient-management/empty-state/completed-tab",
-  "content": {
-    "Title": "Nessun paziente con piano terapeutico completato",
-    "SubText": "I pazienti i cui piani terapeutici si sono conclusi negli ultimi 30 giorni saranno elencati qui.",
-    "component": "TitleWithSubtext"
-  }
-}
